@@ -5,7 +5,7 @@ The operation of the script is very simple, you only have to set the keyword and
 
 # 1. Create the API for Pexels.com
 Creating the API for Pexels is very easy, all you have to do is create a profile on Pexels and follow the steps required by the site.
-Follow the information on this link: https://help.pexels.com/hc/en- us/articles/900004904026-How-do-I-get-an-API-key-
+Follow the information on this link: https://help.pexels.com/hc/en-us/articles/900004904026-How-do-I-get-an-API-key-
 REMEMBER: Do not abuse the API. By default, the API is rate-limited to 200 requests per hour and 20,000 requests per month. 
 
 # 2. Enter your API
