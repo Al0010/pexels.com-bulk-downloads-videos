@@ -3,7 +3,7 @@
 With this script, you can download bulk video resources from www.pexels.com and save a huge amount of time. 
 The operation of the script is very simple, you only have to set the keyword and the number of videos you want to download. 
 
-Install Pexels Library: `pip3 install pexelsPy`
+Install Pexels library: `pip3 install pexelsPy`
 
 # 1. Create the API for Pexels.com
 Creating the API for Pexels is very easy, all you have to do is create a profile on Pexels and follow the steps required by the site.
