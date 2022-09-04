@@ -14,11 +14,11 @@ Enter the script and add your API inside the commas, then save the script.
 
 # 3. Script configuration
 
-A. Adding page number in 'pageNumbers'
+A. Adding page number in `pageNumbers`
 
-B. Adding the number of videos that would download in 'resultsPage' 
+B. Adding the number of videos that would download in `resultsPage` 
 
-C. Adding the keyword in 'api.search_videos'
+C. Adding the keyword in `api.search_videos`
 
 D. Save for updating
 
