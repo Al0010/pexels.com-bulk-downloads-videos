@@ -13,9 +13,13 @@ REMEMBER: Do not abuse the API. By default, the API is rate-limited to 200 reque
 Enter the script and add your API inside the commas, then save the script.
 
 # 3. Script configuration
+
 A. Adding page number in 'pageNumbers'
+
 B. Adding the number of videos that would download in 'resultsPage' 
+
 C. Adding the keyword in 'api.search_videos'
+
 D. Save for updating
 
 Following the default parameters, the script will automatically download the first 5 videos on page number 1 with the keyword 'Sea'.
