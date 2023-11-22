@@ -1,7 +1,7 @@
 import pexelsPy
 import requests
 
-PEXELS_API = 'ADDING YOUR APY KEY HERE'
+PEXELS_API = 'hCBODgTl5OnSfnBSTD68IoY0wyxZjmLh7I9fYamgzZGbz4Tt9wfckaIk'
 api = pexelsPy.API(PEXELS_API)
 
 pageNumbers = 1 
